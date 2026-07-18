@@ -67,7 +67,7 @@ messages:
 ## Credits
 
 - **Original plugin**: [Machine-Maker](https://github.com/MC-Machinations/TreasureMapsPlus) - Licensed under GPL-3.0
-- **Fork**: XPAladiumyX / SkyXNetwork
+- **Fork**: XPaladiumyX / SkyXNetwork
 
 ## License
 
